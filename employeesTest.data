@@ -1,4 +1,7 @@
-{"basicSalary":3000,"className":"telran.employees.Manager","id":1000,"department":"QA","factor":3}
 {"basicSalary":6000,"className":"telran.employees.Manager","id":1001,"department":"Audit","factor":2}
 {"basicSalary":6000,"className":"telran.employees.Manager","id":1002,"department":"Audit","factor":5}
 {"hours":100,"basicSalary":6000,"className":"telran.employees.SalesPerson","id":1003,"department":"Audit","percent":1,"sales":600,"wage":100}
+{"hours":100,"basicSalary":15000,"className":"telran.employees.WageEmployee","id":1011,"department":"Development","wage":100}
+{"hours":100,"basicSalary":10000,"className":"telran.employees.SalesPerson","id":1012,"department":"QA","percent":0.5,"sales":10000,"wage":100}
+{"basicSalary":20000,"className":"telran.employees.Manager","id":1015,"department":"Development","factor":1.5}
+{"basicSalary":7000,"className":"telran.employees.Manager","id":3000,"department":"QA","factor":1.5}
